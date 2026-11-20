@@ -197,3 +197,8 @@ html{scroll-behavior:auto}h1[tabindex="-1"]:focus{outline:none}#gift2 .heading-p
 #gift5 .photo-flow .advance-payment{display:block;color:#76273d;font-weight:800;margin-bottom:6px}
 #gift5 .photo-flow .refund-terms{display:block;color:#193e32;font-weight:800;margin:7px 0;line-height:1.7}
 #gift5 .photo-flow .refund-terms span{display:block}
+
+/* Clear, consistent entrances to the five gifts. */
+#home .gift-feature .open-label{display:flex;align-items:center;justify-content:center;width:100%;min-height:54px;margin-top:20px;padding:13px 16px;border:1px solid #d6b678;border-radius:5px;background:#123f33;color:#fffaf1;font-size:16px;font-weight:800;line-height:1.6;text-align:center;box-shadow:0 3px 0 #092d25;transition:background .15s ease}
+#home .gift-feature:hover .open-label,#home .gift-feature:focus-visible .open-label{background:#1c5544;color:#fffaf1;border-color:#efcf93}
+#home .feature-3 .open-label{border-color:#e6c68b;box-shadow:0 3px 0 #071e19}
