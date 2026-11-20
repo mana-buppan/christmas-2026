@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 480">
+<defs><radialGradient id="gold"><stop stop-color="#fff6ce"/><stop offset=".35" stop-color="#e1b56e"/><stop offset="1" stop-color="#88602d"/></radialGradient><radialGradient id="red" cx=".3" cy=".3"><stop stop-color="#dd9a91"/><stop offset=".3" stop-color="#9e344c"/><stop offset="1" stop-color="#511a2b"/></radialGradient><radialGradient id="glow"><stop stop-color="#fff1bc" stop-opacity=".65"/><stop offset="1" stop-color="#edcc83" stop-opacity="0"/></radialGradient><g id="star" fill="#f7dba0"><path d="M0-9 2-2 9 0 2 2 0 9-2 2-9 0-2-2Z"/></g></defs>
+<path d="M-10 14Q110 72 204 16T410 14" fill="none" stroke="#d2ad69" stroke-width=".8"/>
+<g fill="url(#glow)"><circle cx="30" cy="30" r="17"/><circle cx="86" cy="40" r="19"/><circle cx="150" cy="34" r="18"/><circle cx="214" cy="12" r="17"/><circle cx="278" cy="0" r="17"/><circle cx="352" cy="0" r="17"/><circle cx="36" cy="394" r="23"/><circle cx="213" cy="438" r="20"/><circle cx="330" cy="295" r="22"/></g>
+<g fill="#fff0be"><circle cx="30" cy="30" r="2.4"/><circle cx="86" cy="40" r="2.5"/><circle cx="150" cy="34" r="2.4"/><circle cx="214" cy="12" r="2.4"/><circle cx="278" cy="0" r="2.4"/><circle cx="352" cy="0" r="2.4"/></g>
+<g stroke="#d6b678" stroke-width=".7"><path d="M365 0V85M330 0V50M388 0V136"/></g>
+<circle cx="365" cy="103" r="18" fill="url(#red)" stroke="#c9a269" stroke-width=".7"/><path d="M349 102Q365 114 381 102M350 97Q365 108 380 97" fill="none" stroke="#dfbd7b" stroke-width=".8"/><rect x="361" y="82" width="8" height="6" fill="#d7b473"/>
+<circle cx="330" cy="62" r="12" fill="url(#gold)"/><rect x="327" y="48" width="6" height="5" fill="#d7b473"/>
+<circle cx="388" cy="149" r="14" fill="url(#gold)"/>
+<g opacity=".85"><use href="#star" x="20" y="113"/><use href="#star" x="296" y="188"/><use href="#star" x="348" y="304"/><use href="#star" x="229" y="408"/><use href="#star" x="41" y="364"/></g>
+<g fill="#edce93" opacity=".65"><circle cx="15" cy="221" r="1.5"/><circle cx="300" cy="337" r="2"/><circle cx="191" cy="454" r="2"/><circle cx="69" cy="419" r="1.5"/><circle cx="255" cy="300" r="1.4"/></g>
+<g fill="none" stroke="#bfa16b" stroke-width="1.2" opacity=".7"><path d="M0 478Q47 450 74 421M13 469L8 446M24 463L21 437M35 454L36 428M46 445L49 421M13 469L38 472M24 463L50 463M35 454L61 452M46 445L70 440"/></g></svg>
